@@ -1,4 +1,4 @@
-CASH,action,100,200,description1,10.00,2016-01-01,Y,99
-CASH,action,100,200,description1,10.00,2016-01-01,Y,99
-PROPERTY,action,100,200,description1,10.00,2016-01-01,Y,true
-PROPERTY,action,100,200,description1,10.00,2016-01-01,Y,true
+CASH,action,100,200,description1,10.00,2016-01-01,Y,1001
+CASH,action,100,200,description2,10.00,2016-01-01,Y,1002
+PROPERTY,action,100,200,description3,10.00,2016-01-01,Y,true
+PROPERTY,action,100,200,description4,10.00,2016-01-01,Y,true
